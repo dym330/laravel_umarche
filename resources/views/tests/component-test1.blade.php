@@ -2,5 +2,6 @@
     <x-slot name="header">
         ヘッダー1
     </x-slot>
-    test1
+    コンポーネントテスト１
+    <x-tests.card title="タイトル１" content="本文１" />
 </x-tests.app>
